@@ -1,4 +1,4 @@
-# Pizza-Sales-Data-Analysis-Project-with-Tableu
+# Pizza-Sales-Data-Analysis-Project-with-Tableau
 
 📌 Project Overview
 This project involves analyzing historical pizza sales data to gain insights into business performance. The goal is to calculate key performance indicators (KPIs) and visualize trends to understand customer behavior and operational efficiency.
